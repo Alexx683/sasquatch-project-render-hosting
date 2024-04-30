@@ -56,10 +56,10 @@ pickle5
 pkgutil_resolve_name
 plotly
 psutil
-py=
+py
 pycares
 pycurl
-pydantic=
+pydantics
 PyInstaller
 pyodide
 pyOpenSSL
