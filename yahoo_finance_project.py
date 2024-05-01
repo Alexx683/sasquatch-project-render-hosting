@@ -194,7 +194,7 @@ ani = animation.FuncAnimation(fig, update, frames=10, interval=1000, blit=True)
 # Show the plot
 plt.show()
 
-pip install alpha-vantage
+pip install alpha_vantage
 
 import os
 os.environ['ALPHAVANTAGE_API_KEY'] = '3GVHFFSHBKB0W6KN'
